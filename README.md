@@ -1,0 +1,2 @@
+# TrackYourBody
+A web app built using the AngularJS to make the webpage dynamic, and to allow us to communicate to the server without having to refresh the entire page. Node.js as server-side technology code with the use of callbacks, together with Promises Q to run asynchronous functions. Tedious.js was used to connect with the SQL Server and Squel.js was used to construct SQL statements in an object oriented matter. Therefore we only used JavaScript technologies enabling the developers to feel at ease using the same technology for both server and client side!
